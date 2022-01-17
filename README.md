@@ -1,7 +1,7 @@
 ## Paulo Cesar Werneck Junior
 
 - 📚 Estudando Javascript
-- 👨‍💻 Fron-end developer
+- 👨‍💻 Front-end developer
 
 
 <div align="center">

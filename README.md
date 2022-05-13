@@ -1,6 +1,6 @@
 ## Paulo Cesar Werneck Junior
 
-- 📚 Estudando Javascript
+- 📚 Aprimorando minhas habilidades em React
 - 👨‍💻 Front-end developer
 
 

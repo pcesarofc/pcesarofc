@@ -1,7 +1,7 @@
 ## Paulo Cesar Werneck Junior
 
-- 📚 Aprimorando minhas habilidades em React
-- 👨‍💻 Front-end developer
+- 👨‍💻 Computer Engineer
+- Software developer
 
 
 <div align="center">
